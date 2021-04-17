@@ -34,6 +34,10 @@ These are the list of websites where you can start doing CP! I haven't mentioned
 
 1. [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
 
+### HELPFUL REPOSITORIES ON GITHUB FOR CP
+
+1. [An awesome list for competitive programming!](https://github.com/lnishan/awesome-competitive-programming)
+
 
 
 
