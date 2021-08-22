@@ -25,6 +25,10 @@ These are the list of websites where you can start doing CP! I haven't mentioned
 
 1. [CSES](https://cses.fi/problemset/)
 
+### Codeforces Helpful Extensions and websites
+
+1. [Codeforces Visualizer](https://cfviz.netlify.app/index.html)
+
 ### YouTube Channels Teaching About CP
 
 1. [Ashish kumar](https://www.youtube.com/channel/UCbEd9lNwkBGLFGz8ZxsZdVA)
